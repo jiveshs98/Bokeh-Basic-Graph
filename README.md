@@ -1,5 +1,5 @@
 # Bokeh-Basic-Graph
-Basic bokeh graphs made using Bokeh library and Python 3.7 on Jupyter Notebook.
+Basic bokeh graphs made using Bokeh library and Python 3.7 on Jupyter Notebook. It is to be noted that an html file for every corresponding graph will be created.
 <br></br><br></br>
 Snapshots of the graphs are given below:-
 <br></br><br></br>

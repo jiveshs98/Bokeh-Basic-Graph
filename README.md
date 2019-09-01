@@ -5,5 +5,5 @@ Snapshots of the graphs are given below:-
 
 **Line Graph**
 
-![Line][bokeh_plot_line.png]
+!.[Line].[bokeh_plot_line.png]
 

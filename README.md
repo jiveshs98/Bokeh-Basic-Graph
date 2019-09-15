@@ -24,3 +24,8 @@ Snapshots of the graphs are given below:-
 
 ![Circle](bokeh_plot_circle.png)
 
+<br></br><br></br>
+**Multiple Glyph Graph**
+
+![Multiple Glyphs](bokeh_plot_multiple_glyphs.png)
+
